@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LONGVU/static/css/main.26217f36.css",
+    "main.js": "/LONGVU/static/js/main.6b92624a.js",
+    "index.html": "/LONGVU/index.html",
+    "main.26217f36.css.map": "/LONGVU/static/css/main.26217f36.css.map",
+    "main.6b92624a.js.map": "/LONGVU/static/js/main.6b92624a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26217f36.css",
+    "static/js/main.6b92624a.js"
+  ]
+}
